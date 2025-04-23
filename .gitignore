@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# IDE/Editor
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# MongoDB
+data/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Angular
+.angular/
+coverage/
+
